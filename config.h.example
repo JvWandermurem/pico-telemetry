@@ -1,0 +1,10 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define WIFI_SSID      "nome do seu wifi"
+#define WIFI_PASSWORD  "senha"
+#define BACKEND_IP     "xxx.xxx.xxx.xxx"
+#define BACKEND_PORT   8080
+#define DEVICE_ID      "pico-w-01"
+
+#endif
